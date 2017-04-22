@@ -8,5 +8,5 @@ This container allow to dispose of some files from others domains and servers wi
 
 ```sh
 docker build -t resource-app .
-docker run -it --rm -p 3000:80 -d -v www/ressources/www:/usr/share/nginx/html/ --name run-resource-app resource-app
+docker run -it --rm -p 3000:80 -d -v ~/www/resource:/usr/share/nginx/html/ --name run-resource-app resource-app
 ```
