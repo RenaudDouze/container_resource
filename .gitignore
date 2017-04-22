@@ -1,0 +1,6 @@
+# IDE files
+.ftpconfig
+
+# www directory content except index.html
+/www/*
+!www/index.html
