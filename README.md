@@ -4,6 +4,12 @@
 
 This container allow to dispose of some files from others domains and servers without problems with cross-origin resource sharing
 
+## Help
+
+```sh
+make help
+```
+
 ## Commands
 
 ```sh

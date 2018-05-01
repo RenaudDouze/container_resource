@@ -1,5 +1,9 @@
 # IDE files
 .ftpconfig
+sftp-config.json
+
+# Env files
+prod.env
 
 # www directory content except index.html
 /www/*
